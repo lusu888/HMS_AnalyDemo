@@ -1,0 +1,22 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"70039000000000013",
+		"product_id":"9105385871708188008",
+		"client_id":"218880509692871808",
+		"client_secret":"EE0A11BEEA409AA8B65830B542C81EA0810C95194C7D90A10B4236000850B9C6",
+		"app_id":"101298463",
+		"package_name":"com.wz.android.zzanalydemo"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		}
+	},
+	"configuration_version":"1.0"
+}
